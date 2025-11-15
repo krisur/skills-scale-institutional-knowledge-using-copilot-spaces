@@ -14,6 +14,8 @@ After each sprint, release, or important milestone. Also after incidents.
 
 ## Running a Retrospective
 - Timebox: 45–75 minutes depending on team size
+- Facilitated by Scrum Master (if available) or Project Manager
+- Include all contributing roles: Developers, QA, UX Designer, DevOps Engineer, Technical Writer, Business Analyst
 - Use an anonymous idea board if needed to encourage candor
 - Prioritize 2–3 top action items to avoid overload
 
@@ -31,3 +33,7 @@ After each sprint, release, or important milestone. Also after incidents.
 ## Continuous Improvement Culture
 - Measure impact of action items
 - Celebrate improvements and make small, iterative changes
+
+---
+
+**Note**: Retrospective participation expanded per [issue #5](https://github.com/krisur/skills-scale-institutional-knowledge-using-copilot-spaces/issues/5) to include all team roles. For role details, see [Roles and Personas](octoacme-roles-and-personas.md).

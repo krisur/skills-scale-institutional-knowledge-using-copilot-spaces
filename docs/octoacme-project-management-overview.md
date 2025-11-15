@@ -14,11 +14,21 @@ Applies to all cross-functional projects that deliver product features, services
 - Psychological safety: encourage feedback and learning.
 
 ## Core Roles
-- Project Manager (PM): coordinates delivery, schedules, risk, communications.
-- Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
-- Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
-- Stakeholders: provide inputs and approvals.
+- **Project Manager (PM)**: Coordinates delivery, schedules, risk, communications.
+- **Product Manager (PdM)**: Defines outcomes, prioritizes backlog, and measures success.
+- **Developers**: Implement features, collaborate on design and testability.
+- **QA/Testing**: Validate quality and acceptance criteria.
+- **Stakeholders**: Provide inputs and approvals.
+
+## Extended Roles
+Depending on project complexity and team structure, additional specialized roles may participate:
+- **Scrum Master**: Facilitates sprint ceremonies, removes blockers, coaches Agile practices.
+- **UX Designer**: Designs user experiences, conducts usability testing, advocates for user needs.
+- **Technical Writer**: Creates and maintains technical documentation, release notes, and knowledge base.
+- **DevOps Engineer**: Manages CI/CD pipeline, infrastructure automation, and deployment reliability.
+- **Business Analyst**: Elicits requirements, analyzes business processes, ensures stakeholder alignment.
+
+For detailed role descriptions and interactions, see [Roles and Personas](octoacme-roles-and-personas.md).
 
 ## Key Artifacts
 - Project Charter / One-pager
@@ -44,3 +54,7 @@ Applies to all cross-functional projects that deliver product features, services
 ## How to use these docs
 - Keep the Project Charter updated in the project repo.
 - Add process-specific docs into `.copilot/` if you want Copilot Spaces to use them as context.
+
+---
+
+**Note**: Role definitions and interactions updated per [issue #5](https://github.com/krisur/skills-scale-institutional-knowledge-using-copilot-spaces/issues/5) to include extended team roles.
