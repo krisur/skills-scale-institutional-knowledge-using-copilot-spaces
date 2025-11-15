@@ -18,6 +18,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - High-level timeline and key milestones
 - Initial risk list
 - Resource needs (team roles, rough effort estimate)
+- Team composition including specialized roles as needed
 
 ## Project One-pager Template
 - Project name:
@@ -28,6 +29,16 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Suggested timeline / milestones:
 - Quick risks & dependencies:
 - Proposed team / roles:
+  - Project Manager:
+  - Product Manager:
+  - Developers (count/expertise):
+  - QA/Testing:
+  - Extended roles (as needed):
+    - Scrum Master:
+    - UX Designer:
+    - Technical Writer:
+    - DevOps Engineer:
+    - Business Analyst:
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
@@ -41,3 +52,7 @@ Move to planning when:
 - Success metrics are clear
 - Stakeholders agree on priority
 - Team availability is confirmed
+
+---
+
+**Note**: Team composition guidance updated per [issue #5](https://github.com/krisur/skills-scale-institutional-knowledge-using-copilot-spaces/issues/5) to include specialized roles. See [Roles and Personas](octoacme-roles-and-personas.md) for detailed role descriptions.

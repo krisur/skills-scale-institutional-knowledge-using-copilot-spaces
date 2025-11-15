@@ -11,10 +11,19 @@ Quality gates include robust automated and manual testing, CI/security scanning,
 ## Process Documentation Index
 
 - [Project Management Overview](octoacme-project-management-overview.md)
+- [Roles and Personas](octoacme-roles-and-personas.md)
 - [Project Initiation Guide](octoacme-project-initiation.md)
 - [Project Planning](octoacme-project-planning.md)
 - [Execution & Tracking](octoacme-execution-and-tracking.md)
 - [Risk Management & Communication](octoacme-risks-and-communication.md)
 - [Release & Deployment Guide](octoacme-release-and-deployment.md)
 - [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
-- [Roles and Personas](octoacme-roles-and-personas.md)
+
+## Templates & Checklists
+
+- [Team Onboarding Checklist](octoacme-onboarding-checklist.md)
+- [Status Reporting Template](octoacme-status-reporting-template.md)
+
+---
+
+**Recent Updates**: Documentation expanded per [issue #5](https://github.com/krisur/skills-scale-institutional-knowledge-using-copilot-spaces/issues/5) to include additional personas (Scrum Master, UX Designer, Technical Writer, DevOps Engineer, Business Analyst), clarified escalation paths, explicit role handoffs, and new templates for onboarding and status reporting.
